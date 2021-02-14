@@ -87,7 +87,10 @@ header{
     grid-column: 1 / 3;
 }
 
-.operator-btn{
+.operand-btn{
     background-color: orange;
 }
 
+.equal-btn{
+    background-color: orange;
+}
